@@ -20,6 +20,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingTechniques", "2.Tech
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingTechniques.Tests.Unit", "2.Techniques\test\TestingTechniques.Tests.Unit\TestingTechniques.Tests.Unit.csproj", "{624CE72D-EA6B-492A-B719-B0480A2ED718}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Concepts", "3.Concepts", "{2150171F-1700-4BD0-B36C-CAB37725C8EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DC63C3D6-E7FA-4AA7-AABB-3AE8F7064B70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{975F62EB-8B5D-49AD-8CCA-4CFB469123B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingDependencies.Api", "3.Concepts\src\UnderstandingDependencies.Api\UnderstandingDependencies.Api.csproj", "{958348BC-27A2-43BD-906B-1A03893D74FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingDependencies.Api.Tests.Unit", "3.Concepts\test\UnderstandingDependencies.Api.Tests.Unit\UnderstandingDependencies.Api.Tests.Unit.csproj", "{CE3AF20B-7BD8-4F18-9D0D-3C673732B265}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,6 +44,10 @@ Global
 		{0527D9AD-D0F7-4CA2-87D1-9EC35D277D9B} = {300524B4-8BAF-49D8-88EE-69172B4E3FBE}
 		{F58DC435-2124-48B0-9C12-3241B59A47F9} = {C6EB0292-FB7C-48EF-93AE-9F95B5DF295B}
 		{624CE72D-EA6B-492A-B719-B0480A2ED718} = {0527D9AD-D0F7-4CA2-87D1-9EC35D277D9B}
+		{DC63C3D6-E7FA-4AA7-AABB-3AE8F7064B70} = {2150171F-1700-4BD0-B36C-CAB37725C8EE}
+		{975F62EB-8B5D-49AD-8CCA-4CFB469123B4} = {2150171F-1700-4BD0-B36C-CAB37725C8EE}
+		{958348BC-27A2-43BD-906B-1A03893D74FE} = {DC63C3D6-E7FA-4AA7-AABB-3AE8F7064B70}
+		{CE3AF20B-7BD8-4F18-9D0D-3C673732B265} = {975F62EB-8B5D-49AD-8CCA-4CFB469123B4}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{523EECEE-7751-4181-8FF3-FC7D92DFBFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -52,5 +66,13 @@ Global
 		{624CE72D-EA6B-492A-B719-B0480A2ED718}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{624CE72D-EA6B-492A-B719-B0480A2ED718}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{624CE72D-EA6B-492A-B719-B0480A2ED718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958348BC-27A2-43BD-906B-1A03893D74FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958348BC-27A2-43BD-906B-1A03893D74FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958348BC-27A2-43BD-906B-1A03893D74FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958348BC-27A2-43BD-906B-1A03893D74FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3AF20B-7BD8-4F18-9D0D-3C673732B265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3AF20B-7BD8-4F18-9D0D-3C673732B265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3AF20B-7BD8-4F18-9D0D-3C673732B265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3AF20B-7BD8-4F18-9D0D-3C673732B265}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
