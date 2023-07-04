@@ -4,5 +4,8 @@
     &lt;TestId&gt;xUnit::F10ACF8B-BCD9-4A9D-97EA-E95A41BEBEDF::net7.0::CalculatorLibrary.Tests.Unit.CalculatorTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::624CE72D-EA6B-492A-B719-B0480A2ED718::net7.0::TestingTechniques.Tests.Unit.CalculatorTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::624CE72D-EA6B-492A-B719-B0480A2ED718::net7.0::TestingTechniques.Tests.Unit.ValueSamplesTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CE3AF20B-7BD8-4F18-9D0D-3C673732B265::net7.0::UnderstandingDependencies.Api.Tests.Unit.UserServiceTests.GetAllAsync_ShouldReturnEmptyList_WhenNoUsersExist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CE3AF20B-7BD8-4F18-9D0D-3C673732B265::net7.0::UnderstandingDependencies.Api.Tests.Unit.UserServiceTests.GetAllAsync_ShouldReturnAListOfUsers_WhenUsersExist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::CE3AF20B-7BD8-4F18-9D0D-3C673732B265::net7.0::UnderstandingDependencies.Api.Tests.Unit.UserServiceTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
