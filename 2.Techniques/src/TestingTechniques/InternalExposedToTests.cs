@@ -1,3 +1,5 @@
 ﻿using System.Runtime.CompilerServices;
 
-//[assembly: InternalsVisibleTo("TestingTechniques.Tests.Unit")]
+// This is one method for exposing internal members to other assemblies; however, the better approach is to do so within the .csproj file.
+
+// [assembly: InternalsVisibleTo("TestingTechniques.Tests.Unit")]
