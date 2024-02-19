@@ -1,6 +1,4 @@
-﻿using NSubstitute.ReturnsExtensions;
-
-namespace Users.Api.Tests.Unit;
+﻿namespace Users.Api.Tests.Unit;
 
 public sealed class UserServiceTests
 {
