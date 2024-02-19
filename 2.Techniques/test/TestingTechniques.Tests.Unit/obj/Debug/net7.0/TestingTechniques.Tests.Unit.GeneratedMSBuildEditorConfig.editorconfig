@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestingTechniques.Tests.Unit
 build_property.ProjectDir = C:\Users\justi\Source\Courses\UnitTestingZeroToHero\2.Techniques\test\TestingTechniques.Tests.Unit\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
