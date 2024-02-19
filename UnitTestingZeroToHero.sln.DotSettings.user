@@ -7,5 +7,21 @@
     &lt;TestId&gt;xUnit::CE3AF20B-7BD8-4F18-9D0D-3C673732B265::net7.0::UnderstandingDependencies.Api.Tests.Unit.UserServiceTests.GetAllAsync_ShouldReturnEmptyList_WhenNoUsersExist&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::CE3AF20B-7BD8-4F18-9D0D-3C673732B265::net7.0::UnderstandingDependencies.Api.Tests.Unit.UserServiceTests.GetAllAsync_ShouldReturnAListOfUsers_WhenUsersExist&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::CE3AF20B-7BD8-4F18-9D0D-3C673732B265::net7.0::UnderstandingDependencies.Api.Tests.Unit.UserServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A38A687B-036F-40C4-ABC7-79EAF5C88DF6::net8.0::Users.Api.Tests.Unit.UserServiceTests.GetAllAsync_ShouldReturnEmptyCollection_WhenNoUsersExist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A38A687B-036F-40C4-ABC7-79EAF5C88DF6::net8.0::Users.Api.Tests.Unit.UserServiceTests.GetAllAsync_ShouldReturnUsers_WhenSomeUsersExist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A38A687B-036F-40C4-ABC7-79EAF5C88DF6::net8.0::Users.Api.Tests.Unit.UserServiceTests.GetAllAsync_ShouldLogInformation_WhenInvoked&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A38A687B-036F-40C4-ABC7-79EAF5C88DF6::net8.0::Users.Api.Tests.Unit.UserServiceTests.GetAllAsync_ShouldLogError_WhenExceptionThrown&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A38A687B-036F-40C4-ABC7-79EAF5C88DF6::net8.0::Users.Api.Tests.Unit.UserServiceTests.GetByIdAsync_ShouldReturnUser_WhenUserExists&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A38A687B-036F-40C4-ABC7-79EAF5C88DF6::net8.0::Users.Api.Tests.Unit.UserServiceTests.GetByIdAsync_ShouldReturnNull_WhenUserDoesNotExist&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A38A687B-036F-40C4-ABC7-79EAF5C88DF6::net8.0::Users.Api.Tests.Unit.UserServiceTests.GetByIdAsync_ShouldLogInformation_WhenInvoked&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A38A687B-036F-40C4-ABC7-79EAF5C88DF6::net8.0::Users.Api.Tests.Unit.UserServiceTests.GetByIdAsync_ShouldLogError_WhenExceptionThrown&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A38A687B-036F-40C4-ABC7-79EAF5C88DF6::net8.0::Users.Api.Tests.Unit.UserServiceTests.CreateAsync_ShouldReturnTrue_WhenUserIsCreated&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A38A687B-036F-40C4-ABC7-79EAF5C88DF6::net8.0::Users.Api.Tests.Unit.UserServiceTests.CreateAsync_ShouldReturnFalse_WhenUserIsNotCreated&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A38A687B-036F-40C4-ABC7-79EAF5C88DF6::net8.0::Users.Api.Tests.Unit.UserServiceTests.CreateAsync_ShouldLogInformation_WhenInvoked&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A38A687B-036F-40C4-ABC7-79EAF5C88DF6::net8.0::Users.Api.Tests.Unit.UserServiceTests.CreateAsync_ShouldLogError_WhenExceptionThrown&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A38A687B-036F-40C4-ABC7-79EAF5C88DF6::net8.0::Users.Api.Tests.Unit.UserServiceTests.DeleteByIdAsync_ShouldReturnTrue_WhenUserIsDeleted&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A38A687B-036F-40C4-ABC7-79EAF5C88DF6::net8.0::Users.Api.Tests.Unit.UserServiceTests.DeleteByIdAsync_ShouldReturnFalse_WhenUserIsNotDeleted&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A38A687B-036F-40C4-ABC7-79EAF5C88DF6::net8.0::Users.Api.Tests.Unit.UserServiceTests.DeleteByIdAsync_ShouldLogInformation_WhenInvoked&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A38A687B-036F-40C4-ABC7-79EAF5C88DF6::net8.0::Users.Api.Tests.Unit.UserServiceTests.DeleteByIdAsync_ShouldLogError_WhenExceptionThrown&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
